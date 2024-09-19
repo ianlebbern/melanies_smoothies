@@ -1,6 +1,6 @@
 name: app_environment
 channels:
-  - snowflake
+  - snowflake-snowpark-python
 dependencies:
   - python=3.8.*
   - snowflake-snowpark-python=
